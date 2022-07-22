@@ -49,7 +49,7 @@ Sum of Fares: Urban cities have far greater overall total fares at $39,854.38, c
 
 Average Fares: Rural cities have a significantly higher fare per driver, and slightly higher fare per ride than Urban cities. 
 
-We have one significant finding from this data. Although there are dramatically more drivers, rides, and sum of all fares in the Urban cities, the average fares per driver and per ride are significantly higher in Rural cities. One could assume that this is due to geography. Typically rural cities are more spread out, and people have to travel farther distances to get from A to B. Therefore, each ride is more expensive. In Urban areas, individuals typically travel short distances for short periods of time, but do so more often, and at a much higher volume.
+We have otwo significant findings from this data. Although there are dramatically more drivers, rides, and sum of all fares in the Urban cities, the average fares per driver and per ride are significantly higher in Rural cities. One could assume that this is due to geography. Typically rural cities are more spread out, and people have to travel farther distances to get from A to B. Therefore, each ride is more expensive. In Urban areas, individuals typically travel short distances for short periods of time, but do so more often, and at a much higher volume. Additionally, it appears April has the lowest 
 
 
 ## Summary
